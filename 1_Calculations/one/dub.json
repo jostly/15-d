@@ -1,5 +1,5 @@
 {
-	"name": "1",
+	"name": "one",
 	"description": "A program that takes as its first argument one of the words ‘sum,’ ‘product,’ ‘mean,’ or ‘sqrt’  and for further arguments a series of numbers. The program applies the appropriate function to  the series.",
 	"authors": ["johan"],
 	"license": "public domain",
