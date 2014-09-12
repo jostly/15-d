@@ -1,0 +1,20 @@
+{
+	"name": "two",
+	"description": "A program that calculates a Haar wavelet on an array of numbers.",
+	"authors": ["johan"],
+	"license": "public domain",
+
+	"targetPath": ".out",
+
+	"dependencies": {
+		"specd": "~master"
+	},
+
+	"configurations": [
+    {
+        "name": "test",
+        "versions": ["specrunner"],
+        "targetType": "executable"
+    }
+]
+}
